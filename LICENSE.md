@@ -18,7 +18,10 @@
     </style>
 </head>
 <body>
-    <header>
+    <header> body {
+    background: linear-gradient(to right, #6dd5ed, #2193b0); /* Blue gradient */
+    color: #fff; /* White text color for better contrast */
+}
         <h1>GPL Cricket Scores: Sunrising Indians vs Knight Mega Kings</h1>
     </header>
     <section class="head-to-head">
